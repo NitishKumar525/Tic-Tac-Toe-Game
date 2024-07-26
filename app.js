@@ -4,7 +4,7 @@ let newGameBtn = document.querySelector("#new-btn");
 let msgcontainer = document.querySelector(".msg-container");
 let msg = document.querySelector("#msg");
 
-let turnO = true; //we have two players - playerX , playerO ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+let turnO = true; //we have two players - playerX , playerO ]]]]]]]]]]]]]]]]]]]]]]]]]
 
 const winPatterns = [
   [0, 1, 2],
